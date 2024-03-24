@@ -1,3 +1,2 @@
-# ENGL4026
+# Getting started on ENGL4026 Assignment 1
 
-Welcome to ENGL4026 codes
